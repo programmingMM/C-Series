@@ -1,5 +1,8 @@
 bin/
 obj/
+thumbnail/
 *.cbp
 *.temp
 *.depend
+*.jpg
+*.layout
